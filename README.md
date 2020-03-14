@@ -1,6 +1,10 @@
 # CoronaVirus
 
+I've created this repository to help in tackling and creating solutions that help to restrict the widespread of novel coronavirus. The globalisation across the world has spread the virus not only in China but all across the globe with more than 130+ countries affected by it. 
 
+We need to create solutions or work on ideas that help us in solving and defeating the Coronavirus collectively as a human. Our next few months is going to be very crucial. 
+
+Put in your ideas and suggestions, and lets start working collectively to defeat the Covid-19 spread.
 
 ## Table of Contents
 
