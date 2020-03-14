@@ -15,7 +15,14 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 
 Cases across the globe: https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
 
+### Basic protective measures
 
+<a href="https://youtu.be/bPITHEiFWLc" target="_blank"><img src="https://fontmeme.com/images/WHO-logo-font.png" 
+alt="Corona Basic Protective Measure" width="240" height="180" border="10" /></a>
+
+### Q&A on coronaviruses (COVID-19)
+
+https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
 
 
 [1]: https://en.wikipedia.org/wiki/Coronavirus
