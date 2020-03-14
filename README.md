@@ -6,17 +6,29 @@ We need to create solutions or work on ideas that help us in solving and defeati
 
 ## Active Repositories
 
-- [Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus) 🦠 Novel Coronavirus (COVID-19) | TrackerDashboard to track the spread of the coronavirus, based on three data sources, built with shinyMobile and echarts4r
+- [Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus) | Novel Coronavirus (COVID-19) | TrackerDashboard to track the spread of the coronavirus, based on three data sources, built with shinyMobile and echarts4r
 
   **Active Project Link** : https://coronavirus.john-coene.com/
 
-- [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov) The nCoV genomes were generously shared via GISAID. We gratefully acknowledge the Authors, Originating and Submitting laboratories of the genetic sequence and metadata made available through GISAID on which this research is based.
+- [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov) | The nCoV genomes were generously shared via GISAID. We gratefully acknowledge the Authors, Originating and Submitting laboratories of the genetic sequence and metadata made available through GISAID on which this research is based.
 
    **Active Project Link** : https://nextstrain.org/ncov
 
-- [Query stats of infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019) Query information of Wuhan coronavirus infected stats.
+- [Query stats of infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019) | Query information of Wuhan coronavirus infected stats.
 
    **Active Project Link** : https://guangchuangyu.github.io/nCov2019/   
+
+- [Coronavirus tracker app for iOS & macOS with maps & charts](https://github.com/MhdHejazi/CoronaTracker) | The app is available for personal/non-commercial use. It's not allowed to publish, distribute, or use the app in a commercial way.
+
+   **Active Project Link** : https://samabox.com/CoronaTracker/ 
+   
+- [Memory of 2020 nCoV: Media Coverage, Non-fiction Writings](https://github.com/2019ncovmemory/nCovMemory) | Contains media reports, non-fiction works and personal narratives of 2020 new coronavirus pneumonia (WHO named COVID-19, and the Chinese Health Commission once named Novel Coronavirus Pneumonia, NCP). 🔥🔥🔥
+
+   **Active Project Link** : https://2019ncovmemory.github.io/nCovMemory/
+   
+- [Wuhan Coronavirus Data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | This public repository archives data over time from various public sources on the web. Data is presented as timestamped CSV files, for maximum compatibility. It is hoped that this data will be useful to those producing visualizations or analyses. Code is included.
+
+   **Active Project Link** : NA 
    
 ### About-CoronaVirus
 
