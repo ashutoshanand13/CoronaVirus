@@ -28,5 +28,8 @@ alt="Corona Basic Protective Measure" width="240" height="180" border="10" /></a
 
 https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
 
+### [Code of Conduct][2]
+
 
 [1]: https://en.wikipedia.org/wiki/Coronavirus
+[2]: https://github.com/ashutoshanand13/CoronaVirus/blob/master/CODE_OF_CONDUCT.md
