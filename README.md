@@ -2,13 +2,22 @@
 
 I've created this repository to help in tackling and creating solutions that help to restrict the widespread of novel coronavirus. The globalisation across the world has spread the virus not only in China but all across the globe with more than 130+ countries affected by it. 
 
-We need to create solutions or work on ideas that help us in solving and defeating the Coronavirus collectively as a human. Our next few months is going to be very crucial. 
+We need to create solutions or work on ideas that help us in solving and defeating the Coronavirus collectively as a human.
 
-Put in your ideas and suggestions, and lets start working collectively to defeat the Covid-19 spread.
+## Active Repositories
 
-## Table of Contents
+- [Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus) 🦠 Novel Coronavirus (COVID-19) | TrackerDashboard to track the spread of the coronavirus, based on three data sources, built with shinyMobile and echarts4r
 
+  **Active Project Link** : https://coronavirus.john-coene.com/
 
+- [Nextstrain build for novel coronavirus (nCoV)](https://github.com/nextstrain/ncov) The nCoV genomes were generously shared via GISAID. We gratefully acknowledge the Authors, Originating and Submitting laboratories of the genetic sequence and metadata made available through GISAID on which this research is based.
+
+   **Active Project Link** : https://nextstrain.org/ncov
+
+- [Query stats of infected coronavirus cases](https://github.com/GuangchuangYu/nCov2019) Query information of Wuhan coronavirus infected stats.
+
+   **Active Project Link** : https://guangchuangyu.github.io/nCov2019/   
+   
 ### About-CoronaVirus
 
 Coronaviruses are a group of related viruses that cause diseases in mammals and birds. In humans, coronaviruses cause respiratory tract infections that are typically mild, such as some cases of the common cold (among other possible causes, predominantly rhinoviruses), though rarer forms can be lethal, such as SARS, MERS, and COVID-19. Symptoms vary in other species: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea. There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.
