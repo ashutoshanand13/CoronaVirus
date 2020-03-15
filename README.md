@@ -40,6 +40,10 @@ A Collective list of the active Github repositories working towards tracking and
 
    **Active Project Link** : https://coronavirus-tracker-api.herokuapp.com/all
    
+ - [Folding@home COVID-19 efforts](https://github.com/FoldingAtHome/coronavirus) | This repository will contain all input files and generated datasets for the Folding@home efforts to better understand how the SARS-CoV-2 virus that causes COVID-19 can be targeted with small molecule and antibody therapeutics. This repository will be continuously updated to share results that are being generated on Folding@home. You can follow along with news updates on the Folding@home blog and Folding@home twitter feed.
+
+   **Active Project Link** : http://foldingathome.org/
+   
 ### About-CoronaVirus
 
 Coronaviruses are a group of related viruses that cause diseases in mammals and birds. In humans, coronaviruses cause respiratory tract infections that are typically mild, such as some cases of the common cold (among other possible causes, predominantly rhinoviruses), though rarer forms can be lethal, such as SARS, MERS, and COVID-19. Symptoms vary in other species: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea. There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.
